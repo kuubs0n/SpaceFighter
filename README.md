@@ -1,2 +1,2 @@
 # SpaceFighter
-Game prepared for "Choosen Internet Technology" at Poznań University of Technology
+Game prepared for "Games programming" at Poznań University of Technology

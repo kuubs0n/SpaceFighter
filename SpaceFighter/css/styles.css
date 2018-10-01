@@ -1,0 +1,12 @@
+body {
+  background: url('/SpaceFighter/images/background.png') repeat;
+}
+
+
+#phaser-example {
+  width: 800px;
+  height: 600px;
+  background-color: #000;
+  margin: auto;
+  margin-top: 50px;
+}
